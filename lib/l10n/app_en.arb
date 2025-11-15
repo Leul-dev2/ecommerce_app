@@ -1,0 +1,8 @@
+{
+  "@@locale": "en",
+  "languageTitle": "Select Language",
+  "choosePreferredLanguage": "Choose your preferred language",
+  "error": "Error",
+  "noLanguages": "No languages found",
+  "continueButton": "Continue"
+}
